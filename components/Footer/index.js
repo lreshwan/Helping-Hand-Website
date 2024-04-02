@@ -9,12 +9,14 @@ const Footer = ({}) => {
       <div className="mt-5 laptop:mt-40 p-2 laptop:p-0">
         <div>
           <h1 className="text-2xl text-bold"></h1>
-          <div className="mt-10">
-            <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-              LET&apos;S GET BETTER, TOGETHER
+          <div className="mt-10 mb-6"> {/* Adjust the bottom margin as needed */}
+            <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold mb-5"> {/* This bottom margin pushes the button down */}
+              Let's get better, together!
             </h1>
-            <Button type="primary">Schedule a call</Button>
-            <div className="mt-10">
+            <Button type="primary" className="mb-5"> {/* This bottom margin pushes the socials down */}
+              Schedule a call
+            </Button>
+            <div className="mt-5"> {/* Adjust top margin as needed */}
               <Socials />
             </div>
           </div>
