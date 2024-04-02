@@ -11,7 +11,7 @@ const Footer = ({}) => {
           <h1 className="text-2xl text-bold"></h1>
           <div className="mt-10 mb-6"> {/* Adjust the bottom margin as needed */}
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold mb-5"> {/* This bottom margin pushes the button down */}
-              Let's get better, together!
+              {"Let's get better, together!"}
             </h1>
             <Button type="primary" className="mb-5"> {/* This bottom margin pushes the socials down */}
               Schedule a call
