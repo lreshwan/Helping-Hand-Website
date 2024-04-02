@@ -1,62 +1,71 @@
 ---
-date: '2022-07-15T11:50:54.000Z'
-title: Amazing Blog
-tagline: This is a Tagline If you want to add.
+date: '2024-04-02T11:50:54.000Z'
+title: The benefits of AI in healthcare
+tagline: IBM
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
+  Artificial intelligence is being used in healthcare for everything from
+  answering patient questions to assisting with surgeries and developing new
+  pharmaceuticals.
 image: >-
-  https://images.unsplash.com/photo-1656188505561-19f1a1b6cda8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+  https://www.ibm.com/blog/wp-content/uploads/2023/07/r_jofe160519-00040-01.xl_2x1.png
 ---
+How can artificial intelligence benefit healthcare?
+According to Statista, the artificial intelligence (AI) healthcare market, valued at $11 billion in 2021, is projected to be worth $187 billion in 2030. That massive increase means we will likely continue to see considerable changes in how medical providers, hospitals, pharmaceutical and biotechnology companies, and others in the healthcare industry operate.
 
-# Heading One
+Better machine learning (ML) algorithms, more access to data, cheaper hardware and the availability of 5G have contributed to the increasing application of AI in the healthcare industry, accelerating the pace of change. AI and ML technologies can sift through enormous volumes of health data—from health records and clinical studies to genetic information—and analyze it much faster than humans.
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+AI could help make healthcare operations more efficient
+Healthcare organizations are using AI to improve the efficiency of all kinds of processes, from back-office tasks to patient care. The following are some examples of how AI could be used to benefit staff and patients:
 
-## This is Heading Two
+Administrative workflow: Healthcare workers spend a lot of time doing paperwork and other administrative tasks. AI and automation can help perform many of those mundane tasks, freeing up employee time for other activities and giving them more face-to-face time with patients. For example, generative AI can help clinicians with note-taking and content summarization that can help keep medical records as thorough as possible. AI could also help with accurate coding and sharing of information between departments and billing.
+Virtual nursing assistants: One study found that 64% of patients are comfortable with the use of AI for around-the-clock access to answers that support nurses provide. AI virtual nurse assistants—which are AI-powered chatbots, apps or other interfaces—can be used to help answer questions about medications, forward reports to doctors or surgeons and help patients schedule a visit with a physician. These sorts of routine tasks can help take work off the hands of clinical staff, who can then spend more time directly on patient care, where human judgment and interaction matter most.
+Dosage error reduction: AI could be used to help identify errors in how a patient self-administers medications. One example comes from a study in Nature Medicine, which found that up to 70% of patients don’t take insulin as prescribed. An AI-powered tool that sits in the patient’s background (much like a Wi-Fi router) could be used to flag errors in how the patient administers an insulin pen or inhaler.
+Less invasive surgeries: AI-enabled robots could be used to work around sensitive organs and tissues to help reduce blood loss, infection risk and post-surgery pain.
+Fraud prevention: Fraud in the healthcare industry is enormous, at $380 billion/year, and raises the cost of consumers’ medical premiums and out-of-pocket expenses. Implementing AI can help recognize unusual or suspicious patterns in insurance claims, such as billing for costly services or procedures not performed, unbundling (which is billing for the individual steps of a procedure as though they were separate procedures), and performing unnecessary tests to take advantage of insurance payments.
+AI has the potential to improve the healthcare user experience
+A recent study found that 83% of patients report poor communication as the worst part of their experience, demonstrating a strong need for clearer communication between patients and providers. AI technologies like natural language processing (NLP), predictive analytics and speech recognition could help healthcare providers have more effective communication with patients. AI could, for instance, deliver more specific information about a patient’s treatment options, allowing the healthcare provider to have more meaningful conversations with the patient for shared decision-making.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+AI could be used to increase efficiency in healthcare diagnoses
+According to Harvard’s School of Public Health, although it’s early days for this use, using AI to make diagnoses may reduce treatment costs by up to 50% and improve health outcomes by 40%.
 
-### This is Heading Three
+One use case example is out of the University of Hawaii, where a research team found that deploying deep learning AI technology can improve breast cancer risk prediction. More research is needed, but the lead researcher pointed out that an AI algorithm can be trained on a much larger set of images than a radiologist—as many as a million or more radiology images. Also, that algorithm can be replicated at no cost except for hardware.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+An MIT group developed an ML algorithm to determine when a human expert is needed. In some instances, such as identifying cardiomegaly in chest X-rays, they found that a hybrid human-AI model produced the best results.
 
-#### This is Heading Four With Code Block
+Another published study found that AI recognized skin cancer better than experienced doctors.  US, German and French researchers used deep learning on more than 100,000 images to identify skin cancer. Comparing the results of AI to those of 58 international dermatologists, they found AI did better.
 
-```jsx
-<code className={className} {...props}>
-  {children}
-</code>
-```
+AI in healthcare organizations could mean better health monitoring and preventive care
+As health and fitness monitors become more popular and more people use apps that track and analyze details about their health, they can share these real-time data sets with their doctors to monitor health issues and provide alerts in case of problems.
 
-## BLockquote
+AI solutions—such as big data applications, machine learning algorithms and deep learning algorithms—could also be used to help humans analyze large data sets to assist in clinical and other decision-making. AI could also be used to help detect and track infectious diseases, such as COVID-19, tuberculosis and malaria.
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+AI can help connect disparate healthcare data
+One benefit the use of AI brings to health systems is making gathering and sharing information easier. AI can help providers keep track of patient data more efficiently.
 
-## Ordered List with horizontal line
+One example is diabetes. According to the Centers for Disease Control and Prevention, 10% of the US population has diabetes. Patients can now use wearable and other monitoring devices that provide feedback about their glucose levels to themselves and their medical team. AI can help providers gather that information, store and analyze it, and provide data-driven insights from vast numbers of people. Leveraging this information can help healthcare professionals determine how to better treat and manage diseases.
 
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
+Organizations are also starting to use AI to help improve drug safety. The company SELTA SQUARE, for example, is innovating the pharmacovigilance (PV) process, a legally mandated discipline for detecting and reporting adverse effects from drugs, then assessing, understanding and preventing those effects. PV demands significant effort and diligence from pharma producers because it’s performed from the clinical trials phase all the way through the drug’s lifetime availability. Selta Square uses a combination of AI and automation to make the PV process faster and more accurate, which helps make medicines safer for people worldwide.
 
----
+In some cases, AI could reduce the need to test potential drug compounds physically, which is an enormous cost-savings. High-fidelity molecular simulations can run on computers without incurring the high costs of traditional discovery methods.
 
-## Unordered List With Horizontal line
+AI also has the potential to help humans predict toxicity, bioactivity, and other characteristics of molecules or create previously unknown drug molecules from scratch.
 
-- First item
-- Second item
-- Third item
-- Fourth item
+AI governance in healthcare
+As AI becomes more important in healthcare delivery and more AI medical applications are developed, ethical and regulatory governance must be established. Issues that raise concern include the possibility of bias, lack of transparency, privacy concerns regarding data used for training AI models, and safety and liability issues.
 
----
+“AI governance is necessary, especially for clinical applications of the technology,” said Laura Craft, VP Analyst at Gartner. “However, because new AI techniques are largely new territory for most [health delivery organizations], there is a lack of common rules, processes and guidelines for eager entrepreneurs to follow as they design their pilots.”
 
-## Links
+The World Health Organization (WHO) spent 18 months deliberating with leading experts in ethics, digital technology, law and human rights and various Ministries of Health members to produce a report called Ethics & Governance of Artificial Intelligence for Health. This report identifies ethical challenges to using AI in healthcare, identifies risks, and outlines six consensus principles to ensure AI works for the public’s benefit:
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+Protecting autonomy
+Promoting human safety and well-being
+Ensuring transparency
+Fostering accountability
+Ensuring equity
+Promoting tools that are responsive and sustainable
+The WHO report also provides recommendations that ensure governing AI for healthcare both maximizes the technology’s promise and holds healthcare workers accountable and responsive to the communities and people they work with.
 
-## Images
+Future and potential of AI in the healthcare ecosystem
+AI provides opportunities to help reduce human error, assist medical professionals and staff, and provide patient services 24/7. As AI tools continue to develop, there is potential to use AI even more in reading medical images, X-rays and scans, diagnosing medical problems and creating treatment plans.
 
-![An old rock in the desert](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+AI applications will continue to help streamline various tasks, from answering phones to analyzing population health trends (and, likely, applications yet to be considered). For instance, future AI tools may automate or augment more of the work of clinicians and staff members. That will free up humans to spend more time on more effective and compassionate face-to-face professional care.
