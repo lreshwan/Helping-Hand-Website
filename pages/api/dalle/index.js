@@ -9,7 +9,7 @@ export default async function handler(req, res) {
         const openAIResponse = await fetch('https://api.openai.com/v1/images/generations', {
           method: 'POST',
           headers: {
-            'Authorization': `Bearer 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`,
+            'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`,
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
