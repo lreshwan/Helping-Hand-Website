@@ -7,7 +7,7 @@ export default async function handler(req, res) {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`
+          'Authorization': `Bearer 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`
         },
         body: JSON.stringify({
           model: "gpt-3.5-turbo", // Use the correct model identifier here

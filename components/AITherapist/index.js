@@ -52,7 +52,7 @@ const AITherapist = () => {
       </form>
       {/* Conditionally render the response div only if response is not an empty string */}
       {response && (
-        <div className="response mt-4 p-3 bg-gray-100 rounded">
+        <div className="response mt-4 p-3 bg-purple-400 rounded">
           <p className="whitespace-pre-line">{response}</p>
         </div>
       )}
