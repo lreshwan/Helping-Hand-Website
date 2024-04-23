@@ -99,7 +99,7 @@ export default function VisualizerPage() {
               <input type="radio" name="struggle" value="no" /> No
             </label>
             <label className="block mb-4">
-              Have you lost interst in things you previously liked to do?
+              Have you lost interest in things you previously liked to do?
               <input type="radio" name="interest" value="yes" /> Yes
               <input type="radio" name="interest" value="no" /> No
             </label>
